@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WonderBite.UI", "WonderBite.UI\WonderBite.UI.csproj", "{CF79C2C9-BB77-4ED1-906B-720148DC3DE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WonderBite.DAL", "WonderBite.DAL\WonderBite.DAL.csproj", "{A0121806-4757-4F82-97D6-562B5F42EFDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF79C2C9-BB77-4ED1-906B-720148DC3DE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF79C2C9-BB77-4ED1-906B-720148DC3DE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF79C2C9-BB77-4ED1-906B-720148DC3DE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF79C2C9-BB77-4ED1-906B-720148DC3DE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0121806-4757-4F82-97D6-562B5F42EFDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0121806-4757-4F82-97D6-562B5F42EFDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0121806-4757-4F82-97D6-562B5F42EFDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0121806-4757-4F82-97D6-562B5F42EFDB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45AEB679-DDE4-4CE5-9345-D3945A4DF04C}
+	EndGlobalSection
+EndGlobal
